@@ -1,0 +1,8 @@
+{
+  "EXTENSION_SECRET": "JoXtcf3tCBziwGO4vMTIHQgmybMFdQ1M",
+  "AUTH0_DOMAIN": "id-tigo-us-dev.tigocloud.net",
+  "AUTH0_CLIENT_ID": "twOJWrSNX5zsMlPfFJjRQ4cN66BNc1mD",
+  "AUTH0_CLIENT_SECRET": "7m7tz_d6stSN7PD97FkQZvJx-on8Db3-K6nAQcEIIULMH6T1LYRG65tB49YLAtFU",
+  "WT_URL": "https://34f1-181-124-34-53.ngrok.io",
+  "AUTH0_RTA": "https://auth0.auth0.com"
+}
